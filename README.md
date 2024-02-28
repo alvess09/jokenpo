@@ -24,5 +24,5 @@ Obs Ao finalizar o App o Score é zerado!
 3. Pedra vence Tesoura.
 4. Mesma opção selecionada dá Empate.
 
-[](/banner-jokenPo.png)
+<img src="/banner-jokenPo.png" height="300"/>
 
