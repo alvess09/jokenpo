@@ -13,3 +13,8 @@
 .externalNativeBuild
 .cxx
 local.properties
+/keys
+/keys/chaveApp.jks
+/keys/private_key.pepk
+.jks
+.pepk

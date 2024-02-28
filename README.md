@@ -1,6 +1,7 @@
 # jokenpo
 App simples de Jokenpô (pedra, papel e tesoura) desenvolvido em kotlin 
 
+
 ### Funcionamento  do Jogo
 1. Escolha sua opção:
    *    ✊🏻 Pedra
@@ -11,7 +12,7 @@ App simples de Jokenpô (pedra, papel e tesoura) desenvolvido em kotlin
 3. O algoritmo compara as escolhas.
 4. Após comparação sai o resultado se você ganhou ou perdeu!.
 5. Cada Vitória é acrescentada ao placar.
-6. Caso de Empate ninguem pontua!
+6. Caso de Empate ninguém pontua!
 
 <br/>    
 Obs Ao finalizar o App o Score é zerado!
@@ -23,5 +24,5 @@ Obs Ao finalizar o App o Score é zerado!
 3. Pedra vence Tesoura.
 4. Mesma opção selecionada dá Empate.
 
+[](/banner-jokenPo.png)
 
-baixe aqui = [  link do APK  ](/jokenPo.apk)
